@@ -28,9 +28,7 @@ function Header() {
             </p>
           </p>
         </div>
-        <div className="w-full h-full flex flex-row flex-end justify-end items-center p-4">
-          a
-        </div>
+        <div className="w-full h-full flex flex-row flex-end justify-end items-center p-4"></div>
       </div>
     </div>
   );
